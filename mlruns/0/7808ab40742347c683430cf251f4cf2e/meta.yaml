@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aj/MLHDP/mlruns/0/7808ab40742347c683430cf251f4cf2e/artifacts
+end_time: 1718128930690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7808ab40742347c683430cf251f4cf2e
+run_name: adaptable-sow-250
+run_uuid: 7808ab40742347c683430cf251f4cf2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718128928755
+status: 3
+tags: []
+user_id: aj
